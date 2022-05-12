@@ -6,10 +6,9 @@ _Software engineer based in Accra, Ghana_ <br>
 ## 👩🏼‍💻 Work Experience
 
 **User Support** @FrontLender_(January 2022-April 2022)_ <br>
--	Work with supervisors to determine the needs of clients and aid in the development of products designed to meet them.
--	Maintained information technology systems with necessary repairs and updates to both software and hardware.
--	Led clients through training sessions to help them understand how to use basic software programs.
--	Manage assignment of tasks among interns.
+-	Troubleshooting user issues with access to the platform.
+-	Testing the website for frontend and backend issues.
+-	Entering sample data for website testing.
 - **_Technologies used:_** JavaScript, HTML, CSS, FrontLender.
 <br><br>
 
